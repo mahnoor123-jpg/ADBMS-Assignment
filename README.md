@@ -225,11 +225,11 @@ Benefits :
 7. Comparison: Normalized vs. Denormalized
 
 Feature     | Normalized (3NF)             | Denormalized
-Performance | Slower for complex queries  | Faster query execution
-Data Integrity|  High                      | Risk of inconsistency
-Storage     | Efficient                    | Increased redundancy
-Maintenance | Easier                       | More complex
-Query Complexity| More joins required      | Fewer joins required
+1.Performance | Slower for complex queries  | Faster query execution
+2.Data Integrity|  High                      | Risk of inconsistency
+3.Storage     | Efficient                    | Increased redundancy
+4.Maintenance | Easier                       | More complex
+5.Query Complexity| More joins required      | Fewer joins required
 
 
 8. Risks and Considerations :
